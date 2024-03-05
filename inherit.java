@@ -12,6 +12,9 @@ this.a=a;
 System.out.println("Inside a's parameterized constructor");
 }
 
+
+
+
 void seta(int a)
 {
 this.a=a;
